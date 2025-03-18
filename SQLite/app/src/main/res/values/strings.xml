@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SQLite</string>
+    <string name="btn_add">Thêm</string>
+    <string name="btn_xoa">Xóa</string>
+    <string name="btn_edit">Sửa</string>
+    <string name="btn_show">Hiển thị</string>
+    <string name="name">Name</string>
+    <string name="username">Tên</string>
+    <string name="phone">Số điện thoại</string>
+</resources>

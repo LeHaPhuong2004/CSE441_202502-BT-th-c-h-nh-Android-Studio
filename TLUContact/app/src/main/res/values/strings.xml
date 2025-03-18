@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TLUContact</string>
+    <string name="danhba_cbnv">Danh bạ cán bộ nhân viên</string>
+    <string name="danhba_nv">Danh bạ đơn vị</string>
+    <string name="imv_logo">ĐẠI HỌC THỦY LỢI</string>
+    <string name="email">Email:</string>
+    <string name="name">Tên giảng viên:</string>
+    <string name="phone_number">Số điện thoại:</string>
+    <string name="email_don_vi">Email:</string>
+    <string name="sdt_donvi">Số điện thoại:</string>
+    <string name="ten_dv">Tên đơn vị:</string>
+    <string name="tengv">Họ và tên:</string>
+    <string name="sdtgv">Số điện thoại:</string>
+    <string name="hocvigv">Học vị:</string>
+    <string name="emailgv">Email:</string>
+    <string name="donvict">Đơn vị công tác:</string>
+    <string name="bômn">Bộ môn:</string>
+    <string name="chucvu">Chức vụ:</string>
+    <string name="back_btn">Back</string>
+</resources>

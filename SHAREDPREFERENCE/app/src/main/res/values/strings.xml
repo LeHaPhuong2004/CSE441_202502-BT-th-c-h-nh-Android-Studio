@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SHARED PREFERENCE</string>
+    <string name="save">Lưu</string>
+    <string name="Delete">Xóa</string>
+    <string name="Show">Hiển thị</string>
+    <string name="Username">Tên người dùng</string>
+    <string name="Password">Mật khẩu</string>
+    <string name="show_username">Hiển thị tên người dùng</string>
+    <string name="show_password">Hiển thị mật khẩu</string>
+</resources>
