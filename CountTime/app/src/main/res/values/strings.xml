@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CountTime</string>
+    <string name="timetxt">Time: 0 s</string>
+</resources>

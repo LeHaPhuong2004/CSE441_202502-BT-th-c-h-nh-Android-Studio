@@ -1,0 +1,26 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <EditText
+        android:id="@+id/etMessagee"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/nh_p_tin_nh_n"
+        android:minHeight="48dp" />
+
+    <Button
+        android:id="@+id/btnSendd"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/g_i" />
+
+    <TextView
+        android:id="@+id/tvResponsee"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/ph_n_h_i_t_server_s_hi_n_th_y"
+        android:padding="10dp" />
+</LinearLayout>

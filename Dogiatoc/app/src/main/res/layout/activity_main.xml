@@ -1,0 +1,44 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="16dp">
+
+    <!-- Hiển thị giá trị gia tốc -->
+    <TextView
+        android:id="@+id/tv_x"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="X: 0.0"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/tv_y"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Y: 0.0"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/tv_z"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Z: 0.0"
+        android:textSize="18sp" />
+
+    <!-- Vùng chứa hình ảnh di chuyển -->
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="500dp"
+        android:background="#EFEFEF">
+
+        <ImageView
+            android:id="@+id/ball"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:src="@drawable/ball"
+            android:layout_gravity="center"/>
+    </FrameLayout>
+
+</LinearLayout>

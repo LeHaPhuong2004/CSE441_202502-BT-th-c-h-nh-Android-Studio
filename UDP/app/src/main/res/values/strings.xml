@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UDP</string>
+    <string name="tin_nh_n_nh_n_c">Tin nhắn nhận được:</string>
+    <string name="g_i">Gửi</string>
+    <string name="nh_p_ip_ng_i_nh_n">Nhập IP người nhận</string>
+    <string name="nh_p_tin_nh_n">Nhập tin nhắn</string>
+</resources>

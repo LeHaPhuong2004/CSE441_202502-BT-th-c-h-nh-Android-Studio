@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">InstallPictureFromInternet</string>
+    <string name="show_image">Show Image</string>
+    <string name="enter_url">enter url</string>
+</resources>

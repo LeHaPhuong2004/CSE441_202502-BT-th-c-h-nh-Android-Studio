@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TCP</string>
+    <string name="enter_message">Nhập tin nhắn</string>
+    <string name="send_message">Gửi tin nhắn</string>
+    <string name="Reply_from_server">Phản hồi từ Server</string>
+    <string name="nh_p_tin_nh_n">Nhập tin nhắn</string>
+    <string name="g_i">Gửi</string>
+    <string name="ph_n_h_i_t_server_s_hi_n_th_y">Phản hồi từ server sẽ hiển thị ở đây</string>
+</resources>
